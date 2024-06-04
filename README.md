@@ -10,9 +10,9 @@ Utilizing advanced language models and a robust query processing pipeline, this 
 * Save Generated Code: Automatically saves the generated code snippets to specified files, making it convenient to integrate the code into your projects.
   
 # Key Technologies and Libraries
-llama_index: Core functionalities including vector indexing, reading directories, and creating prompt templates.
-llama_parse: Parsing document results into markdown format.
-pydantic: Defining structured data models for clean and consistent output.
-dotenv: Loading environment variables from a .env file for configuration.
-os: Interacting with the operating system for file handling.
-ast: Safely evaluating strings containing Python expressions.
+* llama_index: Core functionalities including vector indexing, reading directories, and creating prompt templates.
+* llama_parse: Parsing document results into markdown format.
+* pydantic: Defining structured data models for clean and consistent output.
+* dotenv: Loading environment variables from a .env file for configuration.
+* os: Interacting with the operating system for file handling.
+* ast: Safely evaluating strings containing Python expressions.
